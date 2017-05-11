@@ -11,6 +11,7 @@ This application is free of virus or malware </br>
 Cordova<br/>
 HTML5<br/>
 JavaScript<br/>
+Ionic<br/>
 Ipad/Ipad Air<br/>
 
 
